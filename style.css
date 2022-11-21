@@ -1,0 +1,8 @@
+@media(max-width:450px){
+    body {
+        white-space: 200px;
+    }
+    .status {
+        padding: 0.5rem 1rem;
+    }
+}
